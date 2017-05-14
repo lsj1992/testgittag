@@ -1,2 +1,3 @@
 添加一个文件
 在分支develop 中修改的了当前行
+创建bug分支hoxfit/release 并修改了当前行。
